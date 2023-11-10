@@ -169,9 +169,6 @@ Learn how to build time series models in TensorFlow. Implement best practices to
 - [Sunspots Prediction using Conv1D, LSTM, and DNN](https://github.com/golamSaroar/tensorflow-in-practice-specialization/blob/master/4-sequences-timeseries-and-prediction/13-sunspots-prediction-using-conv1D-LSTM-DNN.ipynb)
 - [Sunspots Prediction using Real-world Data](https://github.com/golamSaroar/tensorflow-in-practice-specialization/blob/master/4-sequences-timeseries-and-prediction/14-exercise4-sunspots-prediction-using-realworld-data.ipynb)
 
-Here is my certificate from the Specialization.
-
-![Certificate- Tensorflow in Practice Specialization](certificate-tensorflow-in-practice.jpg)
 
 Specialization description on Coursera website:
 
